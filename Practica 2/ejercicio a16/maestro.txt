@@ -1,0 +1,9 @@
+1001 150.00 100 10 2024-04-01
+Semanario Norte
+Edición especial sobre cultura patagónica
+1002 200.00 80 20 2024-04-01
+Semanario Sur
+Cobertura política y economía del sur
+1003 180.00 120 15 2024-04-02
+Semanario Centro
+Noticias destacadas del centro del país

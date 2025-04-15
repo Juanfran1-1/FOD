@@ -1,0 +1,10 @@
+1 cuenta1@correo.com 
+Este es el cuerpo del mensaje 1.
+1 cuenta2@correo.com 
+Este es el cuerpo del mensaje 2.
+2 cuenta3@correo.com 
+Este es el cuerpo del mensaje 3.
+3 cuenta4@correo.com 
+Este es el cuerpo del mensaje 4.
+3 cuenta5@correo.com 
+Este es el cuerpo del mensaje 5.

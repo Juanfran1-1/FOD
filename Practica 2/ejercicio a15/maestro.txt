@@ -1,0 +1,15 @@
+1 Provincia1
+101 Localidad1
+10 8 5 7 6
+1 Provincia1
+102 Localidad2
+12 10 6 8 7
+2 Provincia2
+201 Localidad3
+15 12 8 10 9
+2 Provincia2
+202 Localidad4
+18 14 10 12 11
+3 Provincia3
+301 Localidad5
+20 16 12 14 13

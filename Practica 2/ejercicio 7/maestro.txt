@@ -1,0 +1,6 @@
+1001 0 0 Juan
+Perez
+1002 0 0 Ana
+Gomez
+1003 0 0 Mario
+Diaz

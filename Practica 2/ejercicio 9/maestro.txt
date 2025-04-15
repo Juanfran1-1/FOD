@@ -1,0 +1,12 @@
+5 1 2023 750.25 101 Juan
+Perez
+12 1 2023 1500.50 101 Juan
+Perez
+5 1 2023 1200.00 101 Juan
+Perez
+3 2 2023 500.00 101 Juan
+Perez
+18 2 2023 1800.75 102 Ana
+Lopez
+22 3 2023 2100.00 103 Carla
+Fernandez

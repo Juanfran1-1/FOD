@@ -1,0 +1,10 @@
+1001 50 20 450.00 Nuggets
+Pollo crocante congelado
+1002 80 30 1200.00 Pizza
+Muzzarella congelada
+1003 60 25 990.00 Hamburguesa
+Medallon vacuno x4
+1004 15 15 700.00 Verduras
+Mix congeladas
+1005 100 40 1500.00 Helado
+Dulce de leche

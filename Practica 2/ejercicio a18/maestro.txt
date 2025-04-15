@@ -1,0 +1,24 @@
+100 Chascomús
+200 Municipio Centro
+1 Hospital A
+800 01/04/2024
+100 Chascomús
+200 Municipio Centro
+2 Hospital B
+900 01/04/2024
+100 Chascomús
+201 Municipio Sur
+3 Hospital C
+500 01/04/2024
+101 Dolores
+300 Municipio Norte
+4 Hospital D
+1600 01/04/2024
+101 Dolores
+300 Municipio Norte
+5 Hospital E
+200 01/04/2024
+101 Dolores
+301 Municipio Oeste
+6 Hospital F
+1700 01/04/2024

@@ -1,0 +1,9 @@
+1 5 user1
+John
+Doe
+2 10 user2
+Jane
+Smith
+3 0 user3
+Alice
+Johnson

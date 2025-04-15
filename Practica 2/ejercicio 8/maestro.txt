@@ -1,0 +1,5 @@
+1 1200000 9500 Misiones
+2 850000 8700 Corrientes
+3 760000 10000 EntreRios
+4 620000 9200 Formosa
+5 700000 10500 Tucuman
